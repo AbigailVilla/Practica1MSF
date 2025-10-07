@@ -11,7 +11,7 @@ authors:
     email: L22212276@TECTIJUANA.EDU.MX
     affiliation: TecNM-ITT
 repository-code: >-
-  https://matlab.mathworks.com/open/github/v1?repo=AbigailVilla/Practica0MSF
+  https://matlab.mathworks.com/open/github/v1?repo=AbigailVilla/Practica1MSF
 keywords:
   - Circuito RLC
   - Controlador PID
@@ -20,4 +20,4 @@ keywords:
   - Simulaciones numéricas
 license: BSD-2-Clause
 version: 1..0
-date-released: '2025-09-19'
+date-released: '2025-07-10'
