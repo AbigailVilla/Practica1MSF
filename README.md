@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información del estudiante
+## Información de la estudiante
 Abigail Villa Camacho \[22212276]; L22212276@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
